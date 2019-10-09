@@ -5,6 +5,7 @@
 @endsection
 
 @section('style')
+{{-- sad --}}
 <link href="{{ asset('css/user.css') }}" rel="stylesheet">
 @endsection
 
